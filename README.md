@@ -3,6 +3,9 @@
 ## 🌟 Overview
 Unleash the power of computer vision to analyze football plays like never before! This project uses YOLO (You Only Look Once), OpenCV, and Python to turn video footage into insightful data, tracking players, calculating speed, and measuring distances covered. Perfect for coaches, analysts, and football enthusiasts alike!
 
+
+![Football Analysis Visualization](https://github.com/BBoruah10/FOOTBALL_ANALYSIS/blob/main/Screenshot%202024-12-21%20010914.png)
+
 ---
 
 ## ✨ Features
