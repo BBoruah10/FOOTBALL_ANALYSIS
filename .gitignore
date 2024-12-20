@@ -1,0 +1,15 @@
+myEnv/
+*__pycahce__*
+*.pyc
+# Ignore large model files
+*.pt
+
+# Ignore large video files
+*.avi
+
+# Ignore specific folders or files
+runs/detect/predict/*
+runs/detect/predict2/*
+output_videos/*
+models/*
+input_videos/*

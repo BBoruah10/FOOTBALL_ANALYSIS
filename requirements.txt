@@ -1,0 +1,10 @@
+numpy<2               # Ensure compatibility with modules like OpenCV
+opencv-python==4.7.0.68  # Stable version of OpenCV
+ultralytics           # YOLO library (includes YOLOv8)
+matplotlib            # For visualizing results
+pandas                # For data manipulation (e.g., player stats, game events)
+scipy                 # For scientific computations
+torch>=1.9.0          # Required for YOLO models (PyTorch backend)
+torchvision>=0.10.0   # For PyTorch image transformations
+tqdm                  # For progress bars
+seaborn               # For advanced visualizations
